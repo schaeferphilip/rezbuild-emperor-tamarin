@@ -55,6 +55,8 @@ VALUES
 	('name','text','Time',NULL,NULL),
 	('Profitability','numeric','Economic','',''),
 	('Ressources comsumption','numeric','Environmental','','');
+	/*('Electricity comsumption','numeric','Environmental','','');*/
+	/*('Water comsumption','numeric','Environmental','','');*/
 
 /*!40000 ALTER TABLE `criteria` ENABLE KEYS */;
 UNLOCK TABLES;
