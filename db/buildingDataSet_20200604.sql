@@ -57,6 +57,9 @@ VALUES
 	('Ressources comsumption','numeric','Environmental','','');
 	/*('Electricity comsumption','numeric','Environmental','','');*/
 	/*('Water comsumption','numeric','Environmental','','');*/
+	('Average price','numeric','Social','','');
+
+
 
 /*!40000 ALTER TABLE `criteria` ENABLE KEYS */;
 UNLOCK TABLES;
